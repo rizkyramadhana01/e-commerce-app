@@ -1,0 +1,7 @@
+.navbar a .active{
+    color: #304ffe;
+    border-bottom: 5px solid;
+    width: 100%;
+    border-radius: 1px;
+    transition: 0.5s ease;
+}
